@@ -153,6 +153,12 @@ NAVIGATION OPACITY
 **************************
 */
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
 
 .opacity-nav{
   position:fixed;

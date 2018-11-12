@@ -317,7 +317,8 @@ header .logo > a{
   float:left;
   line-height:40px;
   padding-right:40px;
-  border-bottom: 1px solid #f1f1f1;
+  padding-top:20px;
+  border-bottom: 5px dotted #f1f1f1;
 }
 
 font-size:24px;
@@ -403,13 +404,13 @@ CONTENT
 }
 
 .one-column{
-  width:30%;
+  width:35%;
   position:relative;
   float:left;
 }
 
 .two-column{
-  width:70%;
+  width:65%;
   position:relative;
   float:left;
 }
@@ -478,7 +479,7 @@ CONTENT
 }
 
 .content .text-intro h5{
-  font-size:14px;
+  font-size:13px;
   color:#87899a;
   font-weight:500;
   line-height:22px;
@@ -487,7 +488,7 @@ CONTENT
 }
 
 .content .text-intro h4{
-  font-size:14px;
+  font-size:13px;
   width:80%;
   color:#87899a;
   font-weight:800;
@@ -645,7 +646,7 @@ li.grid-item{
   color:#2f3242;
   letter-spacing:1px;
   font-weight:900;
-  line-height:50px;
+  line-height:30px;
 }
 
 .grid-hover p{

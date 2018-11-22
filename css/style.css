@@ -424,6 +424,12 @@ CONTENT
   background-size: cover;
 
 }
+.texty p{
+  font-size:16px;
+  color:#87899a;
+  line-height:32px;
+  letter-spacing:2px;
+}
 
 .one-column{
   width:35%;

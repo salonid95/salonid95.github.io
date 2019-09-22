@@ -435,13 +435,13 @@ CONTENT
 }
 
 .one-column{
-  width:35%;
+  width:40%;
   position:relative;
   float:left;
 }
 
 .two-column{
-  width:65%;
+  width:60%;
   position:relative;
   float:left;
 }
@@ -472,7 +472,7 @@ CONTENT
 }
 
 .content .text-intro h1{
-  font-size:56px;
+  font-size:52px;
   width:10%;
   text-transform:uppercase;
   color:#2f3242;

@@ -472,8 +472,8 @@ CONTENT
 }
 
 .content .text-intro h1{
-  font-size:46px;
-  
+  font-size:52px;
+
   text-transform:uppercase;
   color:#2f3242;
   font-weight:700;
@@ -506,7 +506,7 @@ CONTENT
   font-weight:500;
   line-height:26px;
   letter-spacing:1.5px;
-  width:30%;
+  width:70%;
 }
 
 .content .text-intro h5{

@@ -1,12 +1,13 @@
 /*@import url(http://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700,750,800,900,100,200);*/
 
-@import url('https://fonts.googleapis.com/css?family=Viga&display=swap');
 
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 
 body{
   /*font-family: 'Poppins', sans-serif;*/
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-size:14px;
   font-weight: 400;
   overflow-y:scroll;
@@ -49,9 +50,9 @@ body{
 
 
 p{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size:14px;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 a{
@@ -472,11 +473,11 @@ CONTENT
 
 .content .text-intro h1{
   font-size:56px;
-  width:80%;
+  width:10%;
   text-transform:uppercase;
   color:#2f3242;
-  font-weight:10;
-  line-height:60px;
+  font-weight:600;
+  line-height:50px;
   /*border-radius: 2px;*/
 }
 
@@ -499,13 +500,13 @@ CONTENT
 }
 
 .content .text-intro p{
-  font-size:14px;
+  font-size:15px;
   color:#87899a;
   margin-top:50px;
   font-weight:500;
-  line-height:32px;
-  letter-spacing:2px;
-  width:40%;
+  line-height:26px;
+  letter-spacing:1.5px;
+  width:30%;
 }
 
 .content .text-intro h5{

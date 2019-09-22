@@ -435,19 +435,19 @@ CONTENT
 }
 
 .one-column{
-  width:40%;
+  width:35%;
   position:relative;
   float:left;
 }
 
 .two-column{
-  width:60%;
+  width:65%;
   position:relative;
   float:left;
 }
 
 .one-column p{
-  width:100% !important;
+  width:70% !important;
 }
 
 .two-column p{

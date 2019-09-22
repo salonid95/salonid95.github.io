@@ -472,11 +472,11 @@ CONTENT
 }
 
 .content .text-intro h1{
-  font-size:48px;
-  width:10%;
+  font-size:46px;
+  
   text-transform:uppercase;
   color:#2f3242;
-  font-weight:600;
+  font-weight:700;
   line-height:50px;
   /*border-radius: 2px;*/
 }

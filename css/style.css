@@ -447,7 +447,7 @@ CONTENT
 }
 
 .one-column p{
-  width:70% !important;
+  width:100% !important;
 }
 
 .two-column p{
@@ -506,7 +506,7 @@ CONTENT
   font-weight:500;
   line-height:26px;
   letter-spacing:1.5px;
-  
+
 }
 
 .content .text-intro h5{
